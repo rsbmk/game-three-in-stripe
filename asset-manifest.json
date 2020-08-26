@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/game-three-in-stripe/static/css/main.00cd9408.chunk.css",
+    "main.js": "/game-three-in-stripe/static/js/main.c613c637.chunk.js",
+    "main.js.map": "/game-three-in-stripe/static/js/main.c613c637.chunk.js.map",
+    "runtime-main.js": "/game-three-in-stripe/static/js/runtime-main.1b89542a.js",
+    "runtime-main.js.map": "/game-three-in-stripe/static/js/runtime-main.1b89542a.js.map",
+    "static/js/2.a5f385e6.chunk.js": "/game-three-in-stripe/static/js/2.a5f385e6.chunk.js",
+    "static/js/2.a5f385e6.chunk.js.map": "/game-three-in-stripe/static/js/2.a5f385e6.chunk.js.map",
+    "index.html": "/game-three-in-stripe/index.html",
+    "precache-manifest.83b1b35f209d9e4703c0b2c605066725.js": "/game-three-in-stripe/precache-manifest.83b1b35f209d9e4703c0b2c605066725.js",
+    "service-worker.js": "/game-three-in-stripe/service-worker.js",
+    "static/css/main.00cd9408.chunk.css.map": "/game-three-in-stripe/static/css/main.00cd9408.chunk.css.map",
+    "static/js/2.a5f385e6.chunk.js.LICENSE.txt": "/game-three-in-stripe/static/js/2.a5f385e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b89542a.js",
+    "static/js/2.a5f385e6.chunk.js",
+    "static/css/main.00cd9408.chunk.css",
+    "static/js/main.c613c637.chunk.js"
+  ]
+}
